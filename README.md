@@ -1,2 +1,2 @@
-# DeepLearningandCV
-assigument
+# DeepLearning and CV
+assignment
